@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ViolaValery
-- 👀 I’m interested in cake
-- 🌱 I’m currently learning to eat less cake
-- 💞️ I’m looking to collaborate on ..cake
+- 👋 Hi, I’m Viola
+- 👀 I’m interested in too many things
+- 💞️ I’m looking to collaborate on awesome stuff
 
 <!---
 ViolaValery/ViolaValery is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
