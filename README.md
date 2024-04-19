@@ -1,9 +1,9 @@
-<h1 align="center">Welcome! I'm Viola :) </h1>
+<h1 align="center">Hi! I'm Viola :) </h1>
 <h3 align="center">Computer Science student at RWTH Aachen University.</h3>
 
-- 🔭 I’m currently working on **my bachelors thesis**
+- I just finished **my bachelors thesis**
 
-- 🌱 I’m currently learning to **code browser extensions.**
+- 🌱 I’m currently looking for my first full-time job.
 
 - 📫 You can reach me at **valery.graf@rwth-aachen.de**
 
