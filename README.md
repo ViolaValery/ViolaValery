@@ -1,9 +1,7 @@
 <h1 align="center">Hi! I'm Viola :) </h1>
-<h3 align="center">Computer Science student at RWTH Aachen University.</h3>
+<h3 align="center">Alumni at RWTH Aachen University.</h3>
 
-- I just finished **my bachelors thesis**
-
-- 🌱 I’m currently looking for my first full-time job.
+- I just finished **my bachelors degree**
 
 - 📫 You can reach me at **valery.graf@rwth-aachen.de**
 
