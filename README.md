@@ -5,9 +5,6 @@
 
 - 📫 You can reach me at **valery.graf@rwth-aachen.de**
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=violavalery&show_icons=true&locale=en" alt="violavalery" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=violavalery&" alt="violavalery" /></p>
 
 
