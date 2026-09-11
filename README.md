@@ -6,6 +6,3 @@ Working as a student assistant at the chair for Virtual Reality and Immersive Vi
 
 📫 You can reach me at **valery.graf@rwth-aachen.de**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=violavalery&" alt="violavalery" /></p>
-
-
